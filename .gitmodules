@@ -19,3 +19,6 @@
 [submodule "K8SHelloWorld"]
 	path = K8SHelloWorld
 	url = https://github.com/nitinkc/K8SHelloWorld.git
+[submodule "DevOpsLearning"]
+	path = DevOpsLearning
+	url = https://github.com/nitinkc/DevOpsLearning.git
